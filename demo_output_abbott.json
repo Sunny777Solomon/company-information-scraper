@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "url": "https://www.abbott.co.in/",
+    "timestamp": "2025-12-25T12:00:00+05:30",
+    "pages_visited": 10,
+    "errors": [],
+    "scrape_status": "success"
+  },
+  "identity": {
+    "company_name": {
+      "value": "Abbott India Limited",
+      "classification": "found"
+    },
+    "website_url": {
+      "value": "https://www.abbott.co.in/",
+      "classification": "found"
+    },
+    "tagline": {
+      "value": "Healthy Possibilities - We create new solutions that help people live their best lives.",
+      "classification": "found"
+    }
+  },
+  "contact": {
+    "emails": {
+      "value": [
+        "investorrelations.india@abbott.com",
+        "Nandini.goswami@abbott.com",
+        "webmasterindia@abbott.com"
+      ],
+      "classification": "found"
+    },
+    "phones": {
+      "value": ["+91-22-5046 1000", "+91-22-5046 2000", "0832-6724620"],
+      "classification": "found"
+    },
+    "addresses": {
+      "value": [
+        "3, Corporate Park, Sion Trombay Road, Mumbai - 400 071, India",
+        "16th Floor, Godrej BKC, Bandra (East), Mumbai - 400 051, India",
+        "L-18/19, Verna Industrial Area, Goa - 403 722, India"
+      ],
+      "classification": "found"
+    },
+    "social_media": {
+      "value": {
+        "facebook": "https://www.facebook.com/Abbott",
+        "twitter": "https://twitter.com/AbbottNews",
+        "instagram": "https://www.instagram.com/abbottglobal/",
+        "youtube": "https://www.youtube.com/c/abbott",
+        "linkedin": "https://www.linkedin.com/company/1612"
+      },
+      "classification": "found"
+    }
+  },
+  "business": {
+    "description": {
+      "value": "Since 1910, Abbott has been dedicated to helping people in India live healthier lives through a diverse range of science-based nutritional products, diagnostic tools, branded generic pharmaceuticals, and diabetes and vascular devices.",
+      "classification": "found"
+    },
+    "products": {
+      "value": ["Pedialyte", "Ensure", "Glucerna", "Vital", "Similac", "PediaSure"],
+      "classification": "found"
+    },
+    "target_segments": {
+      "value": ["Healthcare professionals", "All life stages"],
+      "classification": "inferred"
+    }
+  },
+  "key_pages": {
+    "about": {
+      "value": "https://www.abbott.co.in/about-abbott.html",
+      "classification": "found"
+    },
+    "products": {
+      "value": "https://www.abbott.co.in/products.html",
+      "classification": "found"
+    },
+    "contact": {
+      "value": "https://www.abbott.co.in/contact.html",
+      "classification": "found"
+    },
+    "careers": {
+      "value": "https://www.abbott.in/careers/working-with-us.html",
+      "classification": "found"
+    },
+    "investors": {
+      "value": "https://www.abbott.co.in/investor-relations.html",
+      "classification": "found"
+    },
+    "pricing": {
+      "value": "not_found",
+      "classification": "not_found"
+    }
+  }
+}
